@@ -1,0 +1,2 @@
+Output repo commit message	Output repo branch	Output repo commit hash	Project repo commit hash	Project repo folder name	Project repo remotes	Python sys args	Tags	Options hash
+Benchmarks for 2DGRM FV 3-zone radial inlet variance convergence; 	2024-11-25_16-05-43_main_05e015e	bfe07afcf094fec77cbf59ec9598f1d3772e2dd8	05e015e9b766181244e83c8b18e2e4a43460e97c	2dgrm-verification	['https://github.com/jbreue16/2DGRMpaper-Verification.git']	['c:\\users\\jmbr\\software\\2dgrm-verification\\src\\test_cadet_core\\2dfvpaperverification.py']		None
