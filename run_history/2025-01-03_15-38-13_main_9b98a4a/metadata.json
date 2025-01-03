@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Benchmarks for 2DGRM FV 3-zone radial inlet variance convergence; ",
+  "Output repo branch": "2025-01-03_15-38-13_main_9b98a4a",
+  "Output repo commit hash": "25b539770e59410e8d14be350795082d29b62e69",
+  "Project repo commit hash": "9b98a4ac02fbee6d899b14f98c8535fecb7c01cc",
+  "Project repo folder name": "2dgrm-verification",
+  "Project repo remotes": [
+    "https://github.com/jbreue16/2DGRMpaper-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\2dgrm-verification\\\\src\\\\test_cadet_core\\\\paper.py']",
+  "Tags": "",
+  "Options hash": null
+}
